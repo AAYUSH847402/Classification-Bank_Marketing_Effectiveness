@@ -8,19 +8,19 @@ Before Implementing the classification models, data was supposed to be balanced.
 
 **Following models have been used for predictions:-**
 
-Logistic Regression Classifier
+* Logistic Regression Classifier
 
-Decision Tree Classifier
+* Decision Tree Classifier
 
-Random Forest Classifier
+* Random Forest Classifier
 
-K-Nearest Neighbors Classifier
+* K-Nearest Neighbors Classifier
 
-Naive Bayes Classifier
+* Naive Bayes Classifier
 
-Support Vector Machine Classifier
+* Support Vector Machine Classifier
 
-LGBM Classifier
+* LGBM Classifier
 
 **What is the dataset about?**
 
